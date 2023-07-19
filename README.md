@@ -18,6 +18,11 @@ Before running the code, make sure you have the following installed:
 
 You can install the required packages using the following command:
 
+```bash
+pip install -r requirements.txt
+```
+
+This will install all the required packages with their specified versions.
 
 ## Load Data
 
